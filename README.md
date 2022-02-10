@@ -1,0 +1,3 @@
+- 🧑 13
+- 🐍 Python
+- 📜 Learning JavaScript
